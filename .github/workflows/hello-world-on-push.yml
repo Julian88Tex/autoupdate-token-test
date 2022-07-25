@@ -1,5 +1,5 @@
 # autoupdate is a GitHub Action that auto-updates pull requests branches whenever changes land on their destination branch.
-name: autoupdate
+name: hello world
 on:
   # This will trigger on all pushes to all branches
   push: {}
