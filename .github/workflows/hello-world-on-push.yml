@@ -4,7 +4,7 @@ on:
   # This will trigger on all pushes to all branches
   push: {}
 jobs:
-  autoupdate:
+  hello-world:
     name: autoupdate
     runs-on: ubuntu-18.04
     steps:
